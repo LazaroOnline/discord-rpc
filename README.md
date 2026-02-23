@@ -2,7 +2,7 @@
 
 ## Deprecation Notice
 
-This library has been deprecated in favor of Discord's GameSDK. [Learn more here](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide)
+This library has been deprecated in favor of Discord's <s>GameSDK</s> Social SDK. [Learn more here](https://docs.discord.com/developers/discord-social-sdk/overview#discord-social-sdk)
 
 ---
 
